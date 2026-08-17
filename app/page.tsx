@@ -7,10 +7,12 @@ import { Gallery } from "@/components/sections/Gallery";
 import { FinalCta } from "@/components/sections/FinalCta";
 import { Footer } from "@/components/sections/Footer";
 import { CutterDivider } from "@/components/ui/CutterDivider";
+import { Analytics } from "@vercel/analytics/next"
 
 export default function Home() {
   return (
     <>
+      <Analytics />
       <Header />
       <main>
         <Hero />

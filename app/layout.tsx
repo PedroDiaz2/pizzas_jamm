@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import { Fraunces, Inter, Space_Mono } from "next/font/google";
 import { siteConfig } from "@/data/site-config";
 import { buildRestaurantJsonLd } from "@/lib/schema";
-import { Analytics } from "@vercel/analytics/next"
 import "./globals.css";
 
 const fraunces = Fraunces({
