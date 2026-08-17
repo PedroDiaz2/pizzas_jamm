@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#EFE4CC" />
+  
+  <g transform="rotate(-5 320 246)">
+    <ellipse cx="320" cy="432" rx="178" ry="18" fill="#241712" opacity="0.12" />
+    <circle cx="320" cy="246" r="182" fill="#EAC784" />
+    <circle cx="320" cy="246" r="168" fill="#D9AE5F" opacity="0.35" />
+    <circle cx="320" cy="246" r="160" fill="#C22F1D" opacity="0.16" />
+    <circle cx="320" cy="246" r="146" fill="#E8A93E" opacity="0.28" />
+    <circle cx="306.1" cy="250.6" r="10.1" fill="#E3573C" opacity="0.9" />
+    <circle cx="332.9" cy="368.2" r="10.5" fill="#C22F1D" opacity="0.9" />
+    <circle cx="282.2" cy="189.2" r="7.0" fill="#C22F1D" opacity="0.9" />
+    <circle cx="365.3" cy="254.9" r="8.9" fill="#E3573C" opacity="0.9" />
+    <circle cx="212.0" cy="307.0" r="7.6" fill="#E3573C" opacity="0.9" />
+    <circle cx="437.3" cy="199.1" r="6.5" fill="#C22F1D" opacity="0.9" />
+    <circle cx="314.1" cy="220.1" r="8.8" fill="#C22F1D" opacity="0.9" />
+    <circle cx="330.0" cy="224.1" r="12.4" fill="#E3573C" opacity="0.9" />
+    <circle cx="285.0" cy="259.2" r="13.0" fill="#E3573C" opacity="0.9" />
+    <circle cx="430.6" cy="273.5" r="7.1" fill="#C22F1D" opacity="0.9" />
+    <circle cx="349.7" cy="219.3" r="8.6" fill="#E3573C" opacity="0.9" />
+    <circle cx="420.5" cy="301.2" r="10.4" fill="#C22F1D" opacity="0.9" />
+    <circle cx="397.5" cy="224.0" r="11.4" fill="#E3573C" opacity="0.9" />
+    <circle cx="352.5" cy="229.0" r="6.1" fill="#E3573C" opacity="0.9" />
+    <circle cx="304.2" cy="235.2" r="10.8" fill="#C22F1D" opacity="0.9" />
+    <circle cx="266.3" cy="267.3" r="12.3" fill="#C22F1D" opacity="0.9" />
+    <line x1="320" y1="246" x2="488.0" y2="246.0" stroke="#D9AE5F" stroke-width="2.5" opacity="0.55" />
+    <line x1="320" y1="246" x2="438.8" y2="364.8" stroke="#D9AE5F" stroke-width="2.5" opacity="0.55" />
+    <line x1="320" y1="246" x2="320.0" y2="414.0" stroke="#D9AE5F" stroke-width="2.5" opacity="0.55" />
+    <line x1="320" y1="246" x2="201.2" y2="364.8" stroke="#D9AE5F" stroke-width="2.5" opacity="0.55" />
+    <line x1="320" y1="246" x2="152.0" y2="246.0" stroke="#D9AE5F" stroke-width="2.5" opacity="0.55" />
+    <line x1="320" y1="246" x2="201.2" y2="127.2" stroke="#D9AE5F" stroke-width="2.5" opacity="0.55" />
+    <line x1="320" y1="246" x2="320.0" y2="78.0" stroke="#D9AE5F" stroke-width="2.5" opacity="0.55" />
+    <line x1="320" y1="246" x2="438.8" y2="127.2" stroke="#D9AE5F" stroke-width="2.5" opacity="0.55" />
+    <circle cx="320" cy="246" r="182" fill="none" stroke="#241712" stroke-opacity="0.08" stroke-width="3" />
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#EFE4CC" />
+  
+    <circle cx="230" cy="240" r="130" fill="#EAC784" />
+    <circle cx="230" cy="240" r="90" fill="#C22F1D" opacity="0.3" />
+    <circle cx="410" cy="240" r="130" fill="#EAC784" opacity="0.85" />
+    <circle cx="410" cy="240" r="90" fill="#E8A93E" opacity="0.4" />
+    <text x="320" y="264" text-anchor="middle" font-family="Georgia, serif" font-size="120" font-weight="700" fill="#FFFBF1">x2</text>
+</svg>
