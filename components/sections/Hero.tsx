@@ -7,8 +7,10 @@ import { locations } from "@/data/locations";
 
 const tickerItems = [
   "Jamm",
-  "Naciones Unidas",
-  "Hawaiana Especial",
+  "Americana",
+  "Hawaiana",
+  "Peruana",
+  "Naciones Unidas", 
   "Brava",
   "Napolitana",
   "Portuguesa",

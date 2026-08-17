@@ -1,4 +1,5 @@
 import { siteConfig } from "@/data/site-config";
+import { px } from "framer-motion";
 
 /**
  * Placeholder wordmark. When the real logo artwork is ready, replace the
@@ -17,11 +18,12 @@ export function Logo({
   const accent = variant === "dark" ? "text-brick" : "text-mustard";
 
   return (
-    <span
+    <img src="../logo_jamm.png"   style={{width: "120px", height: "70px" }} alt="logo_pizza_jamm"/>
+    /*<span
       className={`font-display inline-flex items-baseline gap-[0.1em] text-2xl font-semibold italic leading-none ${tone} ${className}`}
     >
       Pizza&apos;s
       <span className={`not-italic ${accent}`}>{siteConfig.shortName}</span>
-    </span>
+    </span>*/
   );
 }
